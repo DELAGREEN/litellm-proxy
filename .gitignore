@@ -1,0 +1,21 @@
+# Окружение Python
+*venv/
+env/
+.venv/
+
+# Секреты и ключи (ЧТОБЫ НЕ УТЕКЛИ В ИНТЕРНЕТ)
+*.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+*.log
+
+# Настройки IDE
+.vscode/
+.idea/
+.DS_Store
